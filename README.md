@@ -1,5 +1,4 @@
-# Hi! I'm Riley Bautista
-## I do some sketchy stuff daily
+# 
 <!--
 **RileyBautista/RileyBautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
