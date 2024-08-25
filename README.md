@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
+
 ![alt text](https://github.com/RileyBautista/RileyBautista/blob/main/New%20Project(38).png?raw=true)
+<hr>
