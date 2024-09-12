@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/RileyBautista/RileyBautista/blob/main/New%20Project(38).png?raw=true)
 <hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyBautista&show_icons=true&theme=prussian&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=RileyBautista&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyBautista&show_icons=true&theme=prussian)
