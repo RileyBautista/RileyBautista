@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <details>
 <summary>Stats About Me ✨</summary>
 <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyBautista&show_icons=true&theme=prussian&hide_border=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=RileyBautista&theme=prussian&hide_border=true&card_width=300&hide_longest_streak=true)](https://git.io/streak-stats) 
 </details>
 
