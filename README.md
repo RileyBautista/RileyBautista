@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/RileyBautista/RileyBautista/blob/main/New%20Project(38).png?raw=true)
 <hr>
 
-## Programming Languages
+## Programming Languages 🔧
 ![My Skills](https://skillicons.dev/icons?i=html,js,css,py,&perline=15&theme=dark)
 
 ## Stats About Me ✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyBautista&show_icons=true&theme=prussian&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=RileyBautista&theme=prussian&hide_border=true&card_width=300&hide_longest_streak=true)](https://git.io/streak-stats) 
 
-## Lets Connect!
+## Lets Connect! 👥
 Email Me at me@rbautista.net \
 or via [LinkedIn](https://www.linkedin.com/in/rileybautista/)
