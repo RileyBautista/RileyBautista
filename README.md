@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyBautista&show_icons=true&theme=prussian&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=RileyBautista&theme=prussian&hide_border=true&card_width=300&hide_longest_streak=true)](https://git.io/streak-stats) 
 
+## 🪨| My #30NitesOfCode Pet
+  [Check out my progress!](https://www.codedex.io/@RileyBautista/30-nites-of-code)  
+  ![@RileyBautista #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RileyBautista)
+
 ## 👥 | Lets Connect!
 Email Me at me@rbautista.net \
 or via [LinkedIn](https://www.linkedin.com/in/rileybautista/)
