@@ -29,5 +29,5 @@ Here are some ideas to get you started:
   ![@RileyBautista #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RileyBautista)
 
 ## 👥 | Lets Connect!
-Email Me at me@rbautista.net \
+Email Me at rbautista@duck.com \
 or via [LinkedIn](https://www.linkedin.com/in/rileybautista/)
