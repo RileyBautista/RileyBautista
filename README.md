@@ -28,6 +28,9 @@ Here are some ideas to get you started:
   [Check out my progress!](https://www.codedex.io/@RileyBautista/30-nites-of-code)  
   ![@RileyBautista #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RileyBautista)
 
+## 📛 | Holopin Badges
+[![An image of @rileybautista's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rileybautista)](https://holopin.io/@rileybautista)
+
 ## 👥 | Lets Connect!
 Email Me at rbautista@duck.com \
 or via [LinkedIn](https://www.linkedin.com/in/rileybautista/)
