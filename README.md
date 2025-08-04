@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <hr>
 
 ## 🔧 | Programming Languages 
-![My Skills](https://skillicons.dev/icons?i=html,js,css,py,&perline=15&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,tailwind,py,java&perline=15&theme=dark)
 
 ## ✨ | Stats About Me 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyBautista&show_icons=true&theme=prussian&hide_border=true)
