@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## ✨ | Stats About Me 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyBautista&show_icons=true&theme=prussian&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=RileyBautista&theme=prussian&hide_border=true&card_width=300&hide_longest_streak=true)](https://git.io/streak-stats) 
-
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=754&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=prussian)
 ## 🪨| My #30NitesOfCode Pet
   [Check out my progress!](https://www.codedex.io/@RileyBautista/30-nites-of-code)  
   ![@RileyBautista #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RileyBautista)
