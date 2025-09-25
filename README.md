@@ -1,4 +1,4 @@
-<!--
+cli<!--
 **RileyBautista/RileyBautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ## 👥 | Lets Connect!
 Email Me at rbautista@duck.com \
-or via [LinkedIn](https://www.linkedin.com/in/rileybautista/)
+or via [LinkedIn](https://www.linkedin.com/in/riley=bautista/)
