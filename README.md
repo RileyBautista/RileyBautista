@@ -16,4 +16,4 @@
 
 ## 👥 | Lets Connect!
 Email Me at rbautista@duck.com \
-or via [LinkedIn](https://www.linkedin.com/in/riley=bautista/)
+or via [LinkedIn](https://www.linkedin.com/in/riley-bautista/)
