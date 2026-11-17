@@ -1,4 +1,4 @@
-![alt text](https://github.com/RileyBautista/RileyBautista/blob/main/New%20Project(38).png?raw=true)
+![alt text](https://github.com/RileyBautista/RileyBautista/blob/main/RileyBautista.png?raw=true)
 <hr>
 
 ![Daily Badge](https://badge.ava.kim/badge.svg?tz=America%2FNew_York&pack=default&style=flat&color=172f45)
